@@ -1,0 +1,264 @@
+--
+
+
+---lebgdj12bar
+
+local player = game.Players.LocalPlayer
+
+local character = player.Character or player.CharacterAdded:Wait()
+
+local humanoid = character:WaitForChild("Humanoid")
+
+local gui = Instance.new("ScreenGui", player.PlayerGui)
+
+gui.ResetOnSpawn = false
+
+local background = Instance.new("Frame", gui)
+
+background.Size = UDim2.new(0, 150, 0, 50)
+
+background.Position = UDim2.new(0, 10, 1, -60)
+
+background.BackgroundColor3 = Color3.new(0, 0, 0)
+
+background.BackgroundTransparency = 0.5
+
+local imageLabel = Instance.new("ImageLabel", background)
+
+imageLabel.Size = UDim2.new(0, 40, 0, 40)
+
+imageLabel.Position = UDim2.new(0, 5, 0, 5)
+
+imageLabel.Image = "https://www.roblox.com/Thumbs/Avatar.ashx?x=100&y=100&userid=" .. player.UserId
+
+local nameLabel = Instance.new("TextLabel", background)
+
+nameLabel.Size = UDim2.new(0, 100, 0, 20)
+
+nameLabel.Position = UDim2.new(0, 50, 0, 5)
+
+nameLabel.Font = Enum.Font.SourceSansBold
+
+nameLabel.TextColor3 = Color3.new(1, 1, 1)
+
+nameLabel.TextSize = 18
+
+nameLabel.TextXAlignment = Enum.TextXAlignment.Left
+
+nameLabel.Text = player.Name
+
+local healthBar = Instance.new("Frame", background)
+
+healthBar.Size = UDim2.new(0, 100, 0, 10)
+
+healthBar.Position = UDim2.new(0, 50, 0, 25)
+
+healthBar.BackgroundColor3 = Color3.new(1, 0, 0)
+
+humanoid.HealthChanged:Connect(function()
+
+    healthBar.Size = UDim2.new(humanoid.Health / humanoid.MaxHealth, 0, 1, 0)
+
+end)
+
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/lolpoppyus/Roblox-Lua/master/Pop%20UI%20Lib", true))()
+
+local ui = library:Tab("scripts")
+
+local sliders = library:Tab("sliders")
+
+local admin = library:Tab("admins")
+
+local gui = library:Tab("gui")
+
+ui:Button("vhub", function()
+
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/V31nc/2642/Created/VHub"))()
+
+end)
+
+ui:Button("lag reducer", function()
+
+   loadstring(game:HttpGet('https://raw.githubusercontent.com/creepstu/fuzzy-octo-giggle/main/Source'))() 
+
+end)
+
+ui:Button("super tools", function()
+
+   loadstring(game:HttpGet('https://pastefy.ga/VYIAk3o1/raw'))() 
+
+end)
+
+ui:Button("gamepass brookhaven ", function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/AvatarUnlocker/main/IceHub"))()
+
+end)
+
+gui:Button("psytek", function()
+
+loadstring(game:GetObjects("rbxassetid://3014051754")[1].Source)()
+
+end)
+
+ui:Button("arceux x", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20X%20V3"))()
+
+end)
+
+ui:Button("fe pankour script", function()
+
+    loadstring(game:HttpGet(('https://pastebin.com/raw/7HRhh8c4'),true))();
+
+end)
+
+gui:Button("chat lag gui", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Fe%20lag%20chat%20Gui"))()
+
+end)
+
+ui:Button("invisible gui", function()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0Ben1/fe./dbb6ce6f6cee4f7a5c9e20d7b88e83db2a93bf25/Invisible%20GUI'))()
+
+end)
+
+ui:Button("chat lag", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/ChatLag.lua"))()
+
+end)
+
+admin:Button("nameless admin", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))();
+
+end)
+
+admin:Button("infinite yield", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+
+end)
+
+ui:Button("pankour", function()
+
+loadstring(game:HttpGet("https://eternityhub.xyz/BetterRoblox/Loader"))()
+
+end)
+
+ui:Button("icehub", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+
+end)
+
+ui:Button("vhub", function()
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/itsyaboivincentt5315/script/main/VHub.txt'),true))()
+
+end)
+
+admin:Button("infinity hub", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bojoexploitz/yooo/main/itsobfuscated/InfinityHubTooOP", true))()
+
+end)
+
+admin:Button("admin panel gui", function()
+
+loadstring(game:HttpGet("https://pastefy.ga/Oic24KzG/raw", true))()
+
+end)
+
+gui:Button("bido skins", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Bido%20SkinsV1.2", true))()
+
+end)
+
+gui:Button("holf hub", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/Universal", true))()
+
+end)
+
+gui:Button("vcskV ", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/VcskV/main/Hub/main.lua", true))()
+
+end)
+
+gui:Button("psytek", function()
+
+loadstring(game:GetObjects("rbxassetid://3014051754")[1].Source)()
+
+end)
+
+gui:Button("mobile hub", function()
+
+loadstring(game:HttpGet("https://shz.al/~mobile-hub"))()
+
+end)
+
+gui:Button("fe rewind gui", function()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/L"))()
+
+end)
+
+admin:Button("esp", function()
+
+local esp = Drawing.new("Text")
+
+esp.Size = 16
+
+esp.Center = true
+
+esp.Outline = true
+
+esp.Color = Color3.fromRGB(255, 255, 255)
+
+game:GetService("RunService").RenderStepped:Connect(function()
+
+    for _, player in ipairs(game.Players:GetChildren()) do
+
+        if player ~= game.Players.LocalPlayer then
+
+            local position, onScreen = workspace.CurrentCamera:WorldToViewportPoint(player.Character.Head.Position)
+
+            if onScreen then
+
+                esp.Position = Vector2.new(position.X, position.Y - 30)
+
+                esp.Text = player.Name
+
+                esp.Visible = true
+
+            else
+
+                esp.Visible = false
+
+            end
+
+        end
+
+    end
+
+end)
+
+end)
+
+sliders:Slider("arrumando", 0, 100, function(arg)
+
+	-- Find the character you want to change the speed of
+
+local character = game.Workspace.Character
+
+-- Set the character's WalkSpeed to a new value (in this case, 16 studs per second)
+
+character.WalkSpeed = arg
+
+end) 
