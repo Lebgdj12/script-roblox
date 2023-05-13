@@ -1,0 +1,910 @@
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "Acrylix v2.0", HidePremium = false, IntroEnabled = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+-- values omgomgomgomg
+_G.sped = 16
+_G.jummp = 11
+_G.grav = 196
+-- function yay
+
+
+
+function resettt()
+    game.Players.LocalPlayer.Character.Head:Destroy()
+if game.Players.LocalPlayer.Character.Humanoid.Health < 5 then 
+    local deathmanok = game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart").position
+    wait(1.5)
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(deathmanok)
+end
+end
+
+function Headlesr15()
+	loadstring(game:HttpGet("https://pastebin.com/raw/aRrWpGgB", true))()
+end
+
+function swim()
+	loadstring(game:HttpGet("https://pastebin.com/raw/aRrWpGgB", true))()
+end
+
+function swim()
+	loadstring(game:HttpGet("https://pastebin.com/raw/9CK0qSgn", true))()
+end
+
+function netless()
+	loadstring(game:HttpGet(('https://pastebin.com/raw/Cu7bKQWN'),true))()
+end
+
+function MouseFling()
+	loadstring(game:HttpGet("https://pastebin.com/raw/Ga5aLA21", true))()
+end
+
+function HatSpin()
+	loadstring(game:HttpGet("https://pastebin.com/raw/32PbiWw1", true))()
+end
+
+function ChatHax()
+    loadstring(game:HttpGet("https://pastebin.com/raw/XFdQEjzx", true))()
+end
+
+function uglyspy()
+    loadstring(game:HttpGet('https://pastebin.com/raw/7GmZyarT'))()
+end
+
+function turtspy()
+    loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU", true))()
+end
+
+
+function adminn()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+end
+
+function gravvv()
+    game.workspace.Gravity = _G.grav
+end
+
+function tab()
+	loadstring(game:HttpGet("https://pastebin.com/raw/EP9QK0Pu", true))()
+end
+
+function jummmp()
+    game.Players.LocalPlayer.Character.Humanoid.JumpPower = _G.jummp
+end
+
+function walkspeed()
+    game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = _G.sped
+end
+
+function btoolsgui()
+    loadstring(game:HttpGet('https://pastebin.com/raw/LETNPL0E'))()
+end
+-- SHE LIKE THE WAY THAT I RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+function btooltool()
+    a = Instance.new("HopperBin", game.Players.LocalPlayer.Backpack)
+a.BinType = 2
+b = Instance.new("HopperBin", game.Players.LocalPlayer.Backpack)
+b.BinType = 3
+c = Instance.new("HopperBin", game.Players.LocalPlayer.Backpack)
+c.BinType = 4
+end
+function snake()
+    loadstring(game:HttpGet("https://pastebin.com/raw/naRUdxrc", true))()
+end
+
+function amongus()
+    loadstring(game:HttpGet("https://pastebin.com/raw/0YCy2Nss", true))()
+end
+
+function noclip()
+    loadstring(game:HttpGet("https://pastebin.com/raw/ue2BK9xJ", true))()
+end
+
+function esp()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ic3w0lf22/Unnamed-ESP/master/UnnamedESP.lua'))()
+end
+function qtp()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/qyww70GR'),true))()
+end
+
+function fly()
+    loadstring(game:HttpGet("https://pastebin.com/raw/E4Yw5kcw", true))()
+end
+
+function ezhub()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug420/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()
+end
+
+function darkhub()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub/master/Init", true))()
+end
+
+function infjump()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/V5PQy3y0')))()
+end
+
+function psyhub()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/Zt1a4aE9')))() 
+end
+
+function owlhub()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+end
+
+function revizadmin()
+    loadstring(game:HttpGet("https://pastebin.com/raw/Caniwq2N",true))()
+end
+
+function holfhub()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Podroka626/Scripts/main/Universal"))()
+end
+
+function ferewindgui()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/L"))()
+end
+
+function mysecondhub()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Lebgdj12/script-roblox/main/My%20hub%20by%20lebgdj12", true))()
+end
+
+function animationgui1()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Lebgdj12/script-roblox/main/Animation%201"))()
+end
+
+function animationgui2()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Lebgdj12/script-roblox/main/Animation%202"))()
+end
+
+function animationgui3()
+    loadstring(game:HttpGet("https://pastebin.com/raw/RNWgaqCE",true))()
+end
+
+function animationgui4()
+    loadstring(game:HttpGet("https://pastebin.com/raw/RmD3qNp7", true))()
+end
+
+function animationgui5()
+    loadstring(game:HttpGet("https://pastebin.com/raw/eCpipCTH"))()
+end
+
+function arceus x()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AZYsGithub/chillz-workshop/main/Arceus%20X%20V3"))()
+end
+
+function chat lag gui()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/BidoSkinsYT/BidoSkinsYT/main/Fe%20lag%20chat%20Gui"))()
+end
+
+function invisible gui()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/0Ben1/fe./dbb6ce6f6cee4f7a5c9e20d7b88e83db2a93bf25/Invisible%20GUI'))()
+end
+
+function chat lag()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/ChatLag.lua"))()
+end
+
+function NamelessAdmin()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))();
+end
+
+function infyield()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
+end
+
+function ???()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bojoexploitz/yooo/main/itsobfuscated/InfinityHubTooOP", true))()
+end
+
+function icehub()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end
+
+function vhub()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/itsyaboivincentt5315/script/main/VHub.txt'),true))()
+end
+
+function admin panel gui()
+    loadstring(game:HttpGet("https://pastefy.ga/Oic24KzG/raw", true))()
+end
+
+function vcskV()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/VcskV/main/Hub/main.lua", true))()
+end
+
+function psytek()
+    loadstring(game:GetObjects("rbxassetid://3014051754")[1].Source)()
+end
+
+
+function mobile hub()
+    loadstring(game:HttpGet("https://shz.al/~mobile-hub"))()
+end
+
+function Auratus x()
+    loadstring(game:HttpGet("https://pastebin.com/raw/mtrRP1H1", true))()
+end
+
+function white admin v2()
+    loadstring(game:HttpGet(('https://pastefy.ga/A77wWQnu/raw'),true))()
+end
+
+function eternity hub()
+    loadstring(game:HttpGet("https://eternityhub.xyz/BetterRoblox/Loader"))()
+end
+
+function f3x()
+    loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-F3x-script-9549"))()
+end
+
+function new btools()
+    loadstring(game:HttpGet("https://pastebin.com/raw/4bQjGZSM", true))()
+end
+
+function roblox menu changer()
+    loadstring(game:HttpGet("https://eternityhub.xyz/BetterRoblox/Loader"))()
+end
+
+function super fling tridimensional()
+    loadstring(game:HttpGet(('https://pastebin.com/raw/VViuAmm5'),true))()
+end
+
+function fling gui()
+    loadstring(game:HttpGet("https://paste.ee/r/NTtmf", true))()
+end
+
+function fling gui2()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0Ben1/fe./main/Fling%20GUI"))()
+end
+
+function laser gun()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/K0t1n/Public/main/Laser%20Gun"))()
+end
+
+function fe remove #()
+    loadstring(game:GetObjects("rbxassetid://1262435912")[1].Source)()
+end
+
+function auto-report()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+end
+
+function banana eats gui()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/NovaVanity/131e258977e50e1ec0184c72818b8bfd/raw", true))()
+end
+
+function survive the killer:el toro()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/FOXTROXHACKS/ElToro/main/Hub.lua"))()
+end
+
+function survive the killer:chairware()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Milan08Studio/ChairWare/main/main.lua"))()
+end
+
+function multi games 1()
+    loadstring(game:HttpGet("https://pastebin.com/raw/8mh6NGyq",true))()
+end
+
+function multi games 2()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NEWBUTIF/HauntedSoul/main/Loader"))()
+end
+
+function multi games 3()
+    loadstring(game:HttpGet("https://pastebin.com/raw/18ji1xzk"))();
+end
+
+function multi games 4()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TakeModzz/Games-Hub-Script/main/Games%20Hub%20(Always%20updated)"))()
+end
+
+function multi games 5()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxScri/Script-Hubs/main/BloxScripts"))();
+end
+
+function multi games 6()
+    loadstring(game:HttpGet("https://pastebin.com/raw/8FcKnmYi"))()
+end
+
+
+
+-- tabs n jitlang like that
+OrionLib:MakeNotification({
+	Name = "made by monkey boy bovi",
+	Content = "awpo is a slut",
+	Image = "rbxassetid://4483345998",
+	Time = 5
+})
+-- tabs
+local Info = Window:MakeTab({
+    Name = "Info",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+
+local Scripts = Window:MakeTab({
+    Name = "Scripts",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+
+
+local FeScripts = Window:MakeTab({
+    Name = "FE Scripts",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+
+local Hubs = Window:MakeTab({
+    Name = "Hubs",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+
+local Remotespys = Window:MakeTab({
+    Name = "Remote Spys",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local Games = Window:MakeTab({
+    Name = "Games",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local gui = Window:MakeTab({
+    Name = "gui",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local animation = Window:MakeTab({
+    Name = "animation",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local tools = Window:MakeTab({
+    Name = "tools",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local r6andr15 = Window:MakeTab({
+    Name = "r6andr15",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+local multi-gamesgui = Window:MakeTab({
+    Name = "multi-gamesgui",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
+})
+
+Info:AddParagraph("Info","This script hub takes no credit for any of the scripts or hubs that are included.")
+Info:AddParagraph("Credits","Made by the skid clamtour, awpo is a slut, also credits to Orion for the library ")
+Games:AddParagraph("Games","No content yet. Check back later")
+
+-- butts
+FeScripts:AddButton({
+	Name = "Netless",
+	Callback = function()
+      		netless()
+  	end    
+})
+
+Scripts:AddButton({
+	Name = "Infjump",
+	Callback = function()
+      		infjump()
+  	end    
+})
+
+Scripts:AddButton({
+	Name = "Btools Tool",
+	Callback = function()
+      		btooltool()
+  	end    
+})
+
+Scripts:AddButton({
+	Name = "Btools GUI",
+	Callback = function()
+      		btoolsgui()
+  	end    
+})
+
+FeScripts:AddButton({
+	Name = "MouseFling",
+	Callback = function()
+      		MouseFling()
+  	end    
+})
+
+Scripts:AddButton({
+	Name = "Esp",
+	Callback = function()
+      		esp()
+  	end    
+})
+
+Scripts:AddButton({
+	Name = "E to Fly",
+	Callback = function()
+      		fly()
+  	end    
+})
+
+Scripts:AddButton({
+	Name = "Q To TP",
+	Callback = function()
+      		qtp()
+  	end    
+})
+
+Scripts:AddButton({
+	Name = "Swim",
+	Callback = function()
+      		swim()
+  	end    
+})
+
+FeScripts:AddButton({
+	Name = "FE Car *No hats*",
+	Callback = function()
+      		fecar()
+  	end    
+})
+
+FeScripts:AddButton({
+	Name = "ChatHax",
+	Callback = function()
+      		ChatHax()
+  	end    
+})
+
+
+Scripts:AddButton({
+	Name = "ChatHax",
+	Callback = function()
+      		ChatHax()
+  	end    
+})
+
+Scripts:AddButton({
+	Name = "Noclip",
+	Callback = function()
+      		noclip()
+  	end    
+})
+
+FeScripts:AddButton({
+	Name = "Walk On Walls",
+	Callback = function()
+      		wows()
+  	end    
+})
+
+FeScripts:AddButton({
+	Name = "Snake",
+	Callback = function()
+      		snake()
+  	end    
+})
+
+FeScripts:AddButton({
+	Name = "Amongus",
+	Callback = function()
+      		amongus()
+  	end    
+})
+
+FeScripts:AddButton({
+	Name = "FE Table (R6)",
+	Callback = function()
+      		tab()
+  	end    
+})
+
+FeScripts:AddButton({
+	Name = "Headless (R15)",
+	Callback = function()
+      		Headlesr15()
+  	end    
+})
+
+FeScripts:AddButton({
+	Name = "HatSpin",
+	Callback = function()
+      		HatSpin()
+  	end    
+})
+
+Scripts:AddButton({
+	Name = "Admin Commands",
+	Callback = function()
+      		adminn()
+  	end    
+})
+
+Remotespys:AddButton({
+	Name = "Turtle Spy",
+	Callback = function()
+      		turtspy()
+  	end    
+})
+
+Remotespys:AddButton({
+	Name = "Ugly Spy",
+	Callback = function()
+      		uglyspy()
+  	end    
+})
+
+
+Hubs:AddButton({
+	Name = "Owl Hub",
+	Callback = function()
+      		owlhub()
+  	end    
+})
+
+Hubs:AddButton({
+	Name = "Dark Hub",
+	Callback = function()
+      		darkhub()
+  	end    
+})
+
+Hubs:AddButton({
+	Name = "Psy Hub",
+	Callback = function()
+      		psyhub()
+  	end    
+})
+
+Hubs:AddButton({
+	Name = "ez Hub",
+	Callback = function()
+      		ezhub()
+  	end    
+})
+
+gui:AddButton({
+	Name = "revizadmin",
+	Callback = function()
+      		revizadmin()
+  	end    
+})
+
+gui:AddButton({
+	Name = "holfhub",
+	Callback = function()
+      		holfhub()
+  	end    
+})
+
+gui:AddButton({
+	Name = "fe rewind gui",
+	Callback = function()
+      		ferewindgui()
+  	end    
+})
+
+Info:AddButton({
+	Name = "my second hub",
+	Callback = function()
+      		mysecondhub()
+  	end    
+})
+
+animation:AddButton({
+	Name = "animationgui1",
+	Callback = function()
+      		animationgui1()
+  	end    
+})
+
+animation:AddButton({
+	Name = "animationgui2",
+	Callback = function()
+      		animationgui2()
+  	end    
+})
+
+animation:AddButton({
+	Name = "animationgui3",
+	Callback = function()
+      		animationgui3()
+  	end    
+})
+
+animation:AddButton({
+	Name = "animationgui4",
+	Callback = function()
+      		animationgui4()
+  	end    
+})
+
+animation:AddButton({
+	Name = "animationgui5",
+	Callback = function()
+      		animationgui5()
+  	end    
+})
+
+gui:AddButton({
+Name = "arceus x",
+	Callback = function()
+      		arceus x()
+  	end    
+})
+
+gui:AddButton({
+Name = "chat lag gui",
+	Callback = function()
+      		chat lag gui()
+  	end    
+})
+
+gui:AddButton({
+Name = "invisible gui",
+	Callback = function()
+      		invisible gui()
+  	end    
+})
+
+gui:AddButton({
+Name = "chat lag",
+	Callback = function()
+      		chat lag()
+  	end    
+})
+
+gui:AddButton({
+Name = "NamelessAdmin",
+	Callback = function()
+      		NamelessAdmin()
+  	end
+})
+
+gui:AddButton({
+Name = "infyield",
+	Callback = function()
+      		infyield()
+  	end
+})
+
+
+gui:AddButton({
+Name = "eternity hub",
+	Callback = function()
+      		eternity hub()
+  	end
+})
+
+gui:AddButton({
+Name = "icehub",
+	Callback = function()
+      		icehub()
+  	end
+})
+
+gui:AddButton({
+Name = "vhub",
+	Callback = function()
+      		vhub()
+  	end
+})
+
+gui:AddButton({
+Name = "???",
+	Callback = function()
+      		???()
+  	end
+})
+
+gui:AddButton({
+Name = "admin panel gui",
+	Callback = function()
+      		admin panel gui()
+  	end
+})
+
+gui:AddButton({
+Name = "vcskV",
+	Callback = function()
+      		vcskV()
+  	end
+})
+
+gui:AddButton({
+Name = "psytek",
+	Callback = function()
+      		psytek()
+  	end
+})
+
+gui:AddButton({
+Name = "mobile hub",
+	Callback = function()
+      		mobile hub()
+  	end
+})
+
+gui:AddButton({
+Name = "Auratus x",
+	Callback = function()
+      		Auratus x()
+  	end
+})
+
+gui:AddButton({
+Name = "white admin v2",
+	Callback = function()
+      		white admin v2()
+  	end
+})
+
+gui:AddButton({
+Name = "roblox menu changer",
+	Callback = function()
+      		roblox menu changer()
+  	end
+})
+
+tools:AddButton({
+Name = "f3x",
+	Callback = function()
+      		f3x()
+  	end
+})
+
+r6andr15:AddButton({
+Name = "super fling tridimensional",
+	Callback = function()
+      		super fling tridimensional()
+  	end
+})
+
+gui:AddButton({
+Name = "fling gui",
+	Callback = function()
+      		fling gui()
+  	end
+})
+
+gui:AddButton({
+Name = "fling gui2",
+	Callback = function()
+      		fling gui2()
+  	end
+})
+
+tools:AddButton({
+Name = "laser gun",
+	Callback = function()
+      		laser gun()
+  	end
+})
+
+FeScripts:AddButton({
+	Name = "auto-report",
+	Callback = function()
+      		auto-report()
+  	end
+})
+FeScripts:AddButton({
+	Name = "fe remove #",
+	Callback = function()
+      		fe remove #()
+  	end
+})
+
+Games:AddButton({
+	Name = "banana eats gui",
+	Callback = function()
+      		banana eats gui()
+  	end
+})
+
+Games:AddButton({
+	Name = "survive the killer:el toro",
+	Callback = function()
+      		survive the killer:el toro()
+  	end
+})
+
+Games:AddButton({
+	Name = "survive the killer:chairware",
+	Callback = function()
+      		survive the killer:chairware()
+  	end
+})
+
+multi-gamesgui:AddButton({
+	Name = "multi games 1",
+	Callback = function()
+      		multi games 1()
+  	end
+})
+
+multi-gamesgui:AddButton({
+	Name = "multi games 2",
+	Callback = function()
+      		multi games 2()
+  	end
+})
+
+multi-gamesgui:AddButton({
+	Name = "multi games 3",
+	Callback = function()
+      		multi games 3()
+  	end
+})
+
+multi-gamesgui:AddButton({
+	Name = "multi games 4",
+	Callback = function()
+      		multi games 4()
+  	end
+})
+
+multi-gamesgui:AddButton({
+	Name = "multi games 5",
+	Callback = function()
+      		multi games 5()
+  	end
+})
+
+multi-gamesgui:AddButton({
+	Name = "multi games 6",
+	Callback = function()
+      		multi games 6()
+  	end
+})
+-- sliders n jit lang
+Scripts:AddSlider({
+	Name = "WalkSpeed",
+	Min = 0,
+	Max = 500,
+	Default = 16,
+	Color = Color3.fromRGB(255,255,255),
+	Increment = 1,
+	ValueName = "Value",
+	Callback = function(Value)
+		_G.sped = Value
+        walkspeed()
+	end    
+})
+
+Scripts:AddSlider({
+	Name = "Jump Height",
+	Min = 0,
+	Max = 500,
+	Default = 11,
+	Color = Color3.fromRGB(255,255,255),
+	Increment = 1,
+	ValueName = "Value",
+	Callback = function(Value)
+		_G.jummp = Value
+        jummmp()
+	end    
+})
+
+Scripts:AddSlider({
+	Name =  "Gravity",
+	Min = 0,
+	Max = 196,
+	Default = 196,
+	Color = Color3.fromRGB(255,255,255),
+	Increment = 1,
+	ValueName = "Value",
+	Callback = function(Value)
+		_G.grav = Value
+        gravvv()
+	end    
+})
+OrionLib:Init()
