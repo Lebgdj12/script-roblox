@@ -1,7 +1,6 @@
 --[[
 
 	
-loadstring(game:HttpGet("https://pastebin.com/raw/vxtGXu8a"))()
 
 local Speed = 35
 
